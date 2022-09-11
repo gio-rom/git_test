@@ -1,3 +1,4 @@
 Hello World!
 This is a Git test for DCVS
 testing the current directory propierty for practice
+testing the new feature added avoiding commmit mistakes
